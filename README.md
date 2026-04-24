@@ -1,4 +1,3 @@
-
 # Study Planner Web App UI
 
 This is a code bundle for Study Planner Web App UI. The original project is available at https://www.figma.com/design/xw9DXKNc1TJ8s8LuTNsqLK/Study-Planner-Web-App-UI.
@@ -17,4 +16,3 @@ This project includes `render.yaml` for static deployment.
 - Build command: `npm install && npm run build`
 - Publish directory: `dist`
 - SPA route rewrite: `/* -> /index.html`
-  
